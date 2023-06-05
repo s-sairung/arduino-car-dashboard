@@ -9,3 +9,8 @@ This project was inspired by a non-functional odometer in my Mitsubishi Galant E
 - Arduino UNO R3
 - GY-NEO6MV2 GPS Module
 - 128X64 OLED Display
+
+# Libraries
+- [U8g2](https://github.com/olikraus/u8g2)
+- [TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus)
+- [EEPROMEx](https://github.com/thijse/Arduino-EEPROMEx)
